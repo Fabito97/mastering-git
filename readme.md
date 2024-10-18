@@ -1,8 +1,10 @@
-## Heyoo everyone, welcome to my git guide;
+## Welcome to git;
 
 - Yo, Johnny here.
 
 ## Git file added;
+
+- This is coming from 'dev-adrian'
 
 ~ I'm adding this from 'feature-branch'
 
